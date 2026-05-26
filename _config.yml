@@ -4,3 +4,5 @@ description: This is Lucia's website
 remote_theme: pages-themes/caymanv0.2.0 # Establishes a theme
 plugins:
 - jekyll-remote-theme # tool used to build the github pages site
+
+![A pink axolotl in a tank](https://upload.wikimedia.org/wikipedia/commons/7/7f/1954_Hudson_Hornet_convertible_in_red_at_AACA_show.jpg)
