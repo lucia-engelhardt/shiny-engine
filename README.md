@@ -1,5 +1,5 @@
-# shiny-engine
+# Italian Summer Dreams
 
-demo for GitHub Pages workshop
+# demo for GitHub Pages workshop
 
-Hello, World!
+An Ideal Summer in Italy
