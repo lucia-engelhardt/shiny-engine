@@ -1,6 +1,6 @@
 title: Italian Summer Dreams
-description: This is Lucia's website
+description: This is Lucia's ideal summer in Italy
 
-remote_theme: pages-themes/minimal@v0.2.0 # Establishes a theme
+remote_theme: pages-themes/slate@v0.2.0 # Establishes a theme
 plugins:
 - jekyll-remote-theme # tool used to build the github pages site
