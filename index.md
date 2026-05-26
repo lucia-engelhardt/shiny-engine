@@ -1,3 +1,3 @@
-# My Website
-Welcome to my website!
+# My Ideal Italian Summer
+Italy Summer Bucket List!
 ![On the Amalfi Coast](https://upload.wikimedia.org/wikipedia/commons/1/12/Atrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg)
