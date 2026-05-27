@@ -1,4 +1,4 @@
-# Itinirary:
+# To-Do:
 
 # Get Driver's License
 Zipping around in a red convertible
@@ -16,3 +16,4 @@ Take some classes...
 ![italiano](https://upload.wikimedia.org/wikipedia/commons/b/bc/I_choose...to_be_a_good_student_at_school._%2818019606730%29.jpg)
 
 # Alora
+Check out my [itinerary](itinerary)!
